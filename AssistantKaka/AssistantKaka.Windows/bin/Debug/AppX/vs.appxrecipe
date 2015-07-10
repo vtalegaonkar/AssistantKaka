@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HILP13</Machine>
+    <WindowsUser>vtalegaonkar</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c1cf1f86-1d66-48e7-9fc4-a50aba3bfb64</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5D987F80FF5BDEA0AF4895B1A722DEEBB73977262A2CCE6D607EDF5797463BD2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c1cf1f86-1d66-48e7-9fc4-a50aba3bfb64_1.0.0.0_neutral__ykym3xffzxkzw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c1cf1f86-1d66-48e7-9fc4-a50aba3bfb64_ykym3xffzxkzw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c1cf1f86-1d66-48e7-9fc4-a50aba3bfb64</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtalegaonkar</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-10T12:57:06.275</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\AssistantKaka.Windows.exe">
+      <PackagePath>AssistantKaka.Windows.exe</PackagePath>
+      <Modified>2015-07-10T13:10:47.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\Assets\Audio\Kaka.mp3">
+      <PackagePath>Assets\Audio\Kaka.mp3</PackagePath>
+      <Modified>2015-07-10T12:56:36.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-10T12:57:05.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-10T12:57:05.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\AssistantKaka.Windows.xr.xml">
+      <PackagePath>AssistantKaka.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-10T12:57:05.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtalegaonkar.HZI\Documents\Visual Studio 2013\Projects\AssistantKaka\AssistantKaka\AssistantKaka.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-10T12:57:05.924</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
